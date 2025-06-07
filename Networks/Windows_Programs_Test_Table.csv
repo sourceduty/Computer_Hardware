@@ -1,0 +1,50 @@
+Program,Works for Remote Control?,Issues / Limitations,Improvements or Expansion Ideas
+Notepad,Limited,"Focus issues, typing may fail","Add focus handling, save/open files, clear content"
+File Explorer,Yes,None,"Open folders, search files, file operations (copy/move/delete)"
+PowerShell,Yes,None,"Execute commands, fetch system details"
+Command Prompt,Yes,None,"Execute shell commands, fetch output"
+Calculator,Limited,"Lacks remote API, requires key simulation",Automate arithmetic operations
+Paint,Yes,Limited mouse control,"Automate drawing shapes, simulate painting actions"
+Task Manager,No,"System-level app, no APIs",Fetch active tasks through PowerShell instead
+Control Panel,Limited,Navigation to submenus is complex,"Open specific settings (e.g., Network, Devices)"
+Settings,Yes,None,Open specific settings via ms-settings: URIs
+Edge (Browser),Limited,"Requires focus, navigating URLs is complex","Automate URL opening, search bar input"
+Chrome,Limited,Same as Edge,"Open websites, automate searches"
+WordPad,Limited,Focus issues,"Add typing, save/open files"
+Snipping Tool,Limited,Requires precise mouse input,Automate screenshots with hotkeys
+Sticky Notes,No,No keyboard or API support,None
+Media Player,Limited,Limited API or remote commands,"Control playback, volume, and playlist selection"
+VLC Media Player,Yes,None,"Automate playback, playlist control"
+Windows Terminal,Yes,None,"Execute commands, fetch terminal outputs"
+Microsoft Word,Limited,"Focus issues, requires Office API for robust control","Automate text editing, save/open documents"
+Microsoft Excel,Limited,Same as Word,"Automate cell input, run macros"
+Microsoft Outlook,No,Requires Office API for control,"Open emails, send drafts, fetch inbox stats"
+Microsoft Teams,Limited,Requires Teams API for advanced automation,"Send messages, fetch status, control calls"
+Zoom,Limited,Requires Zoom SDK,"Join meetings, send messages, control audio/video"
+Skype,Limited,Requires Skype API,"Call control, send messages"
+Discord,Limited,Requires Discord API,"Automate chats, fetch channel details"
+Spotify,Limited,Requires Spotify API,"Control playback, change volume"
+Netflix App,No,No API or keyboard support,None
+FileZilla,Yes,None,Automate file uploads/downloads
+Audacity,Limited,No native remote control options,Automate audio editing tasks
+Adobe Photoshop,Limited,Requires Photoshop API for advanced control,Automate editing tasks via API
+Adobe Reader,Limited,Requires precise navigation for PDFs,"Automate page navigation, searches"
+Steam,No,Requires Steam API for robust control,"Launch games, control downloads"
+Xbox Game Bar,Limited,No API or keyboard shortcuts available,None
+Visual Studio,Limited,Requires precise navigation,"Automate builds, run scripts, or debugging commands"
+IntelliJ IDEA,Limited,Similar to Visual Studio,"Automate project builds, run scripts"
+PyCharm,Limited,Same as IntelliJ,"Automate debugging, project navigation"
+Eclipse IDE,No,Requires focus and mouse input for precise control,"Automate builds, execute commands"
+ZoomText,Yes,"Accessibility program, limited external control",None
+Spotify Web,Limited,Works via browser control,Automate playback
+Notepad++,Yes,Requires precise focus and input simulation,Automate text editing and saving
+WinRAR,Yes,None,Automate archive extraction
+7-Zip,Limited,None,Automate file compression/decompression
+Windows Defender,Yes,Requires administrative commands,"Fetch scan results, automate scans"
+OneDrive,Limited,None,Automate file sync
+Google Drive,Limited,Requires Google API,Automate file uploads/downloads
+Dropbox,Limited,Requires Dropbox API,Automate file uploads/downloads
+Slack,Limited,Requires Slack API,"Send messages, fetch channel details"
+GIMP,Limited,Requires precise navigation and input simulation,Automate drawing and editing tasks
+Blender,Limited,Requires Python scripting for automation,Automate rendering tasks
+DaVinci Resolve,No,Requires advanced scripting or manual interaction,Automate video editing tasks
