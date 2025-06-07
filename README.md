@@ -49,3 +49,5 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 [ClockworkPi](https://github.com/sourceduty/ClockworkPi_Terminal)
 <br>
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
+<br>
+[Hand Tooling](https://chatgpt.com/g/g-68445142516c819187781c3fb5b4f814-hand-tooling)
