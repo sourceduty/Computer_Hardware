@@ -27,3 +27,5 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
 [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-quantum-pcb)
+<br>
+[PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design)
