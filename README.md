@@ -18,6 +18,12 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 
 #
 
+![Old PCs](https://github.com/user-attachments/assets/32a00abc-23bb-4193-8d13-94d2bdb01cd0)
+
+[Old PC Project](https://chatgpt.com/g/g-6772720d3a2081919c55ff5b808c67bc-old-pc-project) was made to help users creatively and sustainably transform old PC cases into new and imaginative projects. Whether you're an artist, engineer, or hobbyist, it guides you through repurposing outdated computer towers into practical or decorative items such as mini-greenhouses, custom furniture, art installations, or even entirely new tech builds. It offers detailed advice on cleaning, dismantling, assessing case structure, and utilizing tools like paints, LEDs, drills, and 3D-printed parts to modify and personalize each project. By focusing on step-by-step multiple-choice questions, it ensures an organized and interactive experience tailored to your goals, turning e-waste into unique, functional works of art or utility.
+
+#
+
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
 [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-quantum-pcb)
