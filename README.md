@@ -30,6 +30,12 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 
 #
 
+![Bedroom Interface](https://github.com/user-attachments/assets/f67d4f7d-6bfa-42c8-82ef-d92333d94b21)
+
+[Bedroom Interface](https://chatgpt.com/g/g-683aef9685508191a5957b8adced402d-bedroom-interface) was developed to help users create, manage, and enhance terminal-style programs that improve bedroom-related activities and routines through a text-based interface. It specializes in developing minimalist, efficient, and modular command-line applications for tasks like sleep tracking, lighting control (especially with smart devices), mood-setting white noise or ambient sound loops, productivity or meditation timers, compact calendar views, and text-driven journaling systems. Focused on terminal aesthetics, the GPT prioritizes clean ASCII visuals, intuitive keyboard shortcuts, and subtle color schemes that are soothing in low-light environments, making it ideal for nighttime use. It also assists in exploring user habits, suggesting CLI-based workflows, and integrating these tools into daily life via automation methods like cron jobs. The GPT can write code in languages such as Python, Bash, or Node.js, and provides documentation and cross-platform setup tips, ensuring accessibility for users on Linux, macOS, or Windows terminal environments.
+
+#
+
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
 [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-quantum-pcb)
@@ -37,3 +43,5 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 [Operating Systems](https://github.com/sourceduty/Operating_Systems)
 <br>
 [Chemical Computers](https://github.com/sourceduty/Chemical_Computers)
+<br>
+[Homelab Mancave](https://github.com/sourceduty/Homelab_Mancave)
