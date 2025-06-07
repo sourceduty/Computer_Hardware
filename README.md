@@ -45,3 +45,5 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 [Chemical Computers](https://github.com/sourceduty/Chemical_Computers)
 <br>
 [Homelab Mancave](https://github.com/sourceduty/Homelab_Mancave)
+<br>
+[ClockworkPi](https://github.com/sourceduty/ClockworkPi_Terminal)
