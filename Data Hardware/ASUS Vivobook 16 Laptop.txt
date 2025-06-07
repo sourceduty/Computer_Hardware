@@ -1,0 +1,5 @@
+The table presents data on the specifications and performance of a mid-range laptop processing a 100 GB dataset. The laptop is equipped with a quad-core AMD Ryzen 5 7520U CPU, 16 GB of RAM, and 512 GB of storage. It has a network bandwidth of 1 Gbps and utilizes Radeon Graphics for GPU tasks. The file size for processing is noted to be 102400 MB. The total time taken for the complete processing of this dataset is 110.5 minutes. This setup reflects a balanced configuration suitable for moderate data processing tasks, typical of mid-range laptops.
+
+| Data Size (MB/GB) | CPU (Cores) | RAM (GB) | Storage (TB) | Network (Gbps) | CPU Examples              | Computer Type       | File Size (MB) | GPU Examples              | Total Time (minutes) |
+|-------------------|-------------|----------|--------------|----------------|--------------------------|---------------------|----------------|--------------------------|-----------------------|
+| 100 GB            | 14          | 16       | 0.512        | 1.0            | Intel Core i9-13900H     | ASUS Vivobook 16X   | 102400         | NVIDIA GeForce RTX 4050  | 69.6                  |
