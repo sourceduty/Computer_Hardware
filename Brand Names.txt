@@ -1,0 +1,64 @@
+Single-Board Computers (SBCs)
+│
+├── Hobbyist SBCs
+│   │
+│   ├── Raspberry Pi (UK)
+│   ├── Arduino SBCs (Italy)
+│   ├── BeagleBone (USA)
+│   ├── ESP32-Based SBCs (USA/Europe - Espressif distributes globally)
+│
+├── Professional SBCs
+│   │
+│   ├── Industrial SBCs
+│   │   ├── Advantech SBCs (Taiwan)
+│   │   ├── Toradex SBCs (Switzerland)
+│   │   ├── NXP i.MX SBCs (Netherlands)
+│   │   ├── Texas Instruments SBCs (USA)
+│   │
+│   ├── High-Performance SBCs
+        ├── Nvidia Jetson (USA)
+        ├── AMD Ryzen SBCs (USA)
+        ├── Intel NUC SBCs (USA)
+        ├── SolidRun SBCs (Israel)
+
+=================================================
+
+Adafruit
+
+Known for: DIY electronics, sensors, and development boards.
+Manufacturing: Mainly in the USA.
+
+SparkFun
+
+Known for: Components, kits, and development boards for makers and engineers.
+Manufacturing: Mostly in the USA.
+
+Seeed Studio
+
+Known for: Broad range of electronic products and modules.
+Manufacturing: Primarily in China but has other production facilities worldwide.
+
+Pimoroni
+
+Known for: Raspberry Pi accessories, electronics kits, and sensors.
+Manufacturing: Based in the UK, some products made outside of China.
+
+Element14 (Newark)
+
+Known for: Electronic components, development kits, and educational kits.
+Manufacturing: Primarily UK-based operations.
+
+Teensy (PJRC)
+
+Known for: High-performance microcontroller boards.
+Manufacturing: Made in the USA.
+
+Mouser Electronics
+
+Known for: Components, tools, and kits for hardware designers.
+Manufacturing: Primarily based in the USA with global operations.
+
+LilyPad (by SparkFun)
+
+Known for: Wearable and e-textile development boards.
+Manufacturing: Primarily in the USA.
