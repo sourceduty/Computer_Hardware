@@ -1,4 +1,4 @@
-![Logitech M325](https://github.com/user-attachments/assets/42ad6cc3-7a48-4e58-9141-e8a164261678)
+![Porn Addiction](https://github.com/user-attachments/assets/7444697f-c072-44f4-85a3-b1ba19150169)
 
 Sourceduty’s product reviews—captured in a series of personal testimonials and technical impressions from real users—demonstrate a practical, grounded perspective on modern laptop performance across various models. The reviews reveal how users integrate these machines into demanding creative and technical workflows. The Acer Aspire 5 Slim stands out as a favorite for its balanced upgrade path and reliable performance, supporting up to 20GB of RAM and additional SSD storage. Users note its strong hinge design and sleek frame, optimized for portability and airflow. Despite lacking gaming-tier graphics, its Intel Iris Xe GPU handles video editing and light gaming well—sufficient for a multitasking professional. Similarly, the ASUS Vivobook 15 is praised for its flexibility and efficient design, though it leans more toward casual use with an AMD Ryzen 5 and Radeon graphics combination that favors streamed gaming over intensive local rendering. Both reviews highlight the value these machines offer for their price, especially for programming, media production, and light 3D modeling.
 
@@ -34,6 +34,9 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 
 [Bedroom Interface](https://chatgpt.com/g/g-683aef9685508191a5957b8adced402d-bedroom-interface) was developed to help users create, manage, and enhance terminal-style programs that improve bedroom-related activities and routines through a text-based interface. It specializes in developing minimalist, efficient, and modular command-line applications for tasks like sleep tracking, lighting control (especially with smart devices), mood-setting white noise or ambient sound loops, productivity or meditation timers, compact calendar views, and text-driven journaling systems. Focused on terminal aesthetics, the GPT prioritizes clean ASCII visuals, intuitive keyboard shortcuts, and subtle color schemes that are soothing in low-light environments, making it ideal for nighttime use. It also assists in exploring user habits, suggesting CLI-based workflows, and integrating these tools into daily life via automation methods like cron jobs. The GPT can write code in languages such as Python, Bash, or Node.js, and provides documentation and cross-platform setup tips, ensuring accessibility for users on Linux, macOS, or Windows terminal environments.
 
+
+#
+![Logitech M325](https://github.com/user-attachments/assets/42ad6cc3-7a48-4e58-9141-e8a164261678)
 #
 
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
