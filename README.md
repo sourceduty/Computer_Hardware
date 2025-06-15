@@ -43,6 +43,22 @@ Sourceduty’s hardware lineup, as showcased through its detailed laptop reviews
 
 Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which offers exceptional value for a high-core-count productivity machine. Powered by an Intel Xeon E5-2699C v4 processor with 22 cores and 44 threads, this workstation is well-suited for intensive multitasking, rendering, simulation, and parallel computation tasks. Its 32GB of DDR4 ECC Registered RAM ensures reliable memory performance, especially for data-sensitive applications such as 3D modeling, CAD, and scientific analysis. The 250GB SSD provides decent storage for system files and essential software, while the ATI AMD Radeon 1GB video card, although modest, is sufficient for basic graphics tasks and general display output. With a gigabit ethernet port and a rugged chassis, the T5810 is ideal as a dependable development or back-end logic processing node in a Sourceduty workflow.
 
+<br>
+
+| Metric                          | Dell G15 Gaming Laptop (CPU Only)                | Dell Precision T5810 Workstation (CPU Only)       |
+|---------------------------------|--------------------------------------------------|---------------------------------------------------|
+| Inference Mode                  | CPU-only (Intel i5-10500H - 6 cores, 12 threads) | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) |
+| RAM                             | 8GB DDR4                                         | 32GB DDR4 ECC Registered                          |
+| Tokens per Second (Q4)         | 4–6 tokens/sec                                   | 8–12 tokens/sec                                   |
+| Tokens per Second (Q5)         | 3–5 tokens/sec                                   | 6–10 tokens/sec                                   |
+| Estimated Time for 5000 Tokens (Q4) | ~13.9 – 20.8 minutes                         | ~6.9 – 10.4 minutes                               |
+| Estimated Time for 5000 Tokens (Q5) | ~16.7 – 27.8 minutes                         | ~8.3 – 13.8 minutes                               |
+| Model Load Time (GGUF)         | ~25–35 seconds                                   | ~25–40 seconds                                    |
+| Sustained Performance           | Medium (mobile thermals, may throttle)           | High (server-grade, stable multithreaded loads)   |
+| Max Token Context Window        | ~2K–3K tokens (limited by RAM)                   | 4K–8K tokens (ample RAM)                          |
+| Power Efficiency                | High (mobile chip, efficient per watt)           | Low (high power draw, higher sustained output)    |
+| Portability                    | High (lightweight laptop)                        | Low (stationary tower workstation)                |
+
 #
 
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
