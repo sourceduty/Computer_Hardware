@@ -48,7 +48,7 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 | Metric                          | Dell G15 Gaming Laptop (CPU Only)                | Dell Precision T5810 Workstation (CPU Only)       |
 |---------------------------------|--------------------------------------------------|---------------------------------------------------|
 | Inference Mode                  | CPU-only (Intel i5-10500H - 6 cores, 12 threads) | CPU-only (Intel Xeon E5-2699C v4 - 22 cores, 44 threads) |
-| RAM                             | 8GB DDR4                                         | 32GB DDR4 ECC Registered                          |
+| RAM                             | 32GB DDR4                                         | 32GB DDR4 ECC Registered                          |
 | Tokens per Second (Q4)         | 4–6 tokens/sec                                   | 8–12 tokens/sec                                   |
 | Tokens per Second (Q5)         | 3–5 tokens/sec                                   | 6–10 tokens/sec                                   |
 | Estimated Time for 5000 Tokens (Q4) | ~13.9 – 20.8 minutes                         | ~6.9 – 10.4 minutes                               |
