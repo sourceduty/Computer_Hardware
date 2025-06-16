@@ -61,6 +61,12 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 
 #
 
+![Pi](https://github.com/user-attachments/assets/a9f89fd5-61ce-48a5-b669-7bc01e396689)
+
+[Pi Terminal](https://chatgpt.com/g/g-6850adae0f308191ab94e3551c85e716-pi-terminal) is specifically designed to help users create, test, and deploy terminal-based applications for Raspberry Pi devices. It specializes in generating optimized command-line tools using shell scripts, Python, or C/C++ that run efficiently on Raspberry Pi OS and similar distributions. Pi Terminal provides detailed step-by-step guidance for installation, setup, and troubleshooting, with a focus on lightweight, secure, and well-documented code. It also supports interfacing with hardware components like sensors and displays, managing Linux services, and automating tasks with cron jobs. Whether you're a hobbyist or a developer, Pi Terminal ensures your Raspberry Pi projects are streamlined and effective.
+
+#
+
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
 [Quantum PCB](https://chatgpt.com/g/g-67a078d11dd4819199e9a6c13d9b5c1b-quantum-pcb)
