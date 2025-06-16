@@ -22,6 +22,8 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 
 [Pi OS](https://chatgpt.com/g/g-682bf4fd9c6481919808f89a8c7e513f-pi-os) is a custom GPT built to assist users in the development, optimization, and research of these operating systems, focusing on the Raspberry Pi hardware. It helps with everything from selecting the right OS and kernel configuration to integrating device drivers, optimizing performance, troubleshooting hardware issues, and automating tasks with scripting. Pi OS supports users in building custom OS images using tools like Yocto and Buildroot, and it can also guide users through troubleshooting bootloaders, networking issues, GPIO, and USB peripherals. This GPT serves as an expert advisor for developers and hobbyists working with Raspberry Pi devices, providing highly technical, detailed, and accurate guidance tailored to both novice and advanced users.
 
+Also, [Pi Terminal](https://chatgpt.com/g/g-6850adae0f308191ab94e3551c85e716-pi-terminal) is specifically designed to help users create, test, and deploy terminal-based applications for Raspberry Pi devices. It specializes in generating optimized command-line tools using shell scripts, Python, or C/C++ that run efficiently on Raspberry Pi OS and similar distributions. Pi Terminal provides detailed step-by-step guidance for installation, setup, and troubleshooting, with a focus on lightweight, secure, and well-documented code. It also supports interfacing with hardware components like sensors and displays, managing Linux services, and automating tasks with cron jobs. Whether you're a hobbyist or a developer, Pi Terminal ensures your Raspberry Pi projects are streamlined and effective.
+
 #
 
 ![Old PCs](https://github.com/user-attachments/assets/32a00abc-23bb-4193-8d13-94d2bdb01cd0)
@@ -58,12 +60,6 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 | Max Token Context Window        | ~2K–3K tokens (limited by RAM)                   | 4K–8K tokens (ample RAM)                          |
 | Power Efficiency                | High (mobile chip, efficient per watt)           | Low (high power draw, higher sustained output)    |
 | Portability                    | High (lightweight laptop)                        | Low (stationary tower workstation)                |
-
-#
-
-![Pi](https://github.com/user-attachments/assets/a9f89fd5-61ce-48a5-b669-7bc01e396689)
-
-[Pi Terminal](https://chatgpt.com/g/g-6850adae0f308191ab94e3551c85e716-pi-terminal) is specifically designed to help users create, test, and deploy terminal-based applications for Raspberry Pi devices. It specializes in generating optimized command-line tools using shell scripts, Python, or C/C++ that run efficiently on Raspberry Pi OS and similar distributions. Pi Terminal provides detailed step-by-step guidance for installation, setup, and troubleshooting, with a focus on lightweight, secure, and well-documented code. It also supports interfacing with hardware components like sensors and displays, managing Linux services, and automating tasks with cron jobs. Whether you're a hobbyist or a developer, Pi Terminal ensures your Raspberry Pi projects are streamlined and effective.
 
 #
 
