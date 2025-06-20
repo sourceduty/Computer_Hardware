@@ -74,6 +74,8 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 [Sensor Calibration](https://chatgpt.com/g/g-uGKloGHOe-sensor-calibration) is a custom GPT designed to assist users in calibrating sensors and microcontroller boards—such as Arduino and Raspberry Pi—by focusing on observable behaviors rather than direct numerical sensor readings. It is especially tailored for analog-to-digital converter (ADC) calibration, guiding users to identify sensor types (e.g., resistive, voltage-output), select proper analog pins (like A0 on Arduino or ADC-enabled GPIOs on Raspberry Pi Pico), and verify stable power and grounding. The process includes applying known reference voltages to analog inputs and confirming expected system responses, such as LED state changes or timing patterns. Firmware calibration involves using editable code stubs with scale and offset variables that map ADC values (e.g., 0–1023 for 10-bit or 0–4095 for 12-bit ADCs) to real-world units. This GPT walks users through the entire process with pinout diagrams, filtering strategies, and EEPROM storage suggestions—ensuring precise, functional calibration without relying on live data output.
 
 #
+![No China](https://github.com/user-attachments/assets/29fbd5f2-892f-4375-8cdb-ba1576790933)
+#
 
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
