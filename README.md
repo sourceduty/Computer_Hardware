@@ -19,11 +19,13 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 
 #
 
-![Pi-PC](https://github.com/user-attachments/assets/8b9f7149-dc3c-4ed4-b2af-753097812066)
+![Pi Legacy OS](https://github.com/user-attachments/assets/bdde3226-4c1a-4691-bbd2-33327c4eddf5)
 
 [Pi OS](https://chatgpt.com/g/g-682bf4fd9c6481919808f89a8c7e513f-pi-os) is a custom GPT built to assist users in the development, optimization, and research of these operating systems, focusing on the Raspberry Pi hardware. It helps with everything from selecting the right OS and kernel configuration to integrating device drivers, optimizing performance, troubleshooting hardware issues, and automating tasks with scripting. Pi OS supports users in building custom OS images using tools like Yocto and Buildroot, and it can also guide users through troubleshooting bootloaders, networking issues, GPIO, and USB peripherals. This GPT serves as an expert advisor for developers and hobbyists working with Raspberry Pi devices, providing highly technical, detailed, and accurate guidance tailored to both novice and advanced users.
 
 Also, [Pi Terminal](https://chatgpt.com/g/g-6850adae0f308191ab94e3551c85e716-pi-terminal) is specifically designed to help users create, test, and deploy terminal-based applications for Raspberry Pi devices. It specializes in generating optimized command-line tools using shell scripts, Python, or C/C++ that run efficiently on Raspberry Pi OS and similar distributions. Pi Terminal provides detailed step-by-step guidance for installation, setup, and troubleshooting, with a focus on lightweight, secure, and well-documented code. It also supports interfacing with hardware components like sensors and displays, managing Linux services, and automating tasks with cron jobs. Whether you're a hobbyist or a developer, Pi Terminal ensures your Raspberry Pi projects are streamlined and effective.
+
+[Pi Legacy OS](https://chatgpt.com/g/g-685642b88f808191abb93dfce1031c9d-pi-legacy-os) is a custom GPT designed to assist users in exploring and reviving vintage operating systems on Raspberry Pi hardware. It specializes in helping users run older or discontinued OSes—such as RISC OS, Windows 3.1 via DOSBox, classic Debian builds, or Unix-like distributions—on various Raspberry Pi models. The GPT provides detailed guidance on sourcing legacy system images, setting up emulators like QEMU or DOSBox, and configuring low-level system components such as kernels, bootloaders, and drivers for ARM-based platforms. It also supports troubleshooting hardware compatibility issues, optimizing filesystem configurations, and bridging old software with modern hardware. Whether for preservation, education, or retrocomputing hobbies, this GPT is tailored to recreate and sustain classic computing environments on modern single-board computers.
 
 #
 
