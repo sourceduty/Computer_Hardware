@@ -95,3 +95,5 @@ Sourceduty purchased a Dell Precision T5810 Workstation, for $563.90 CAD, which 
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
 <br>
 [Hand Tooling](https://chatgpt.com/g/g-68445142516c819187781c3fb5b4f814-hand-tooling)
+<br>
+[Computer Upgrade](https://chatgpt.com/g/g-bSr9Rxt51-computer-upgrade)
