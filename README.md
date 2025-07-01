@@ -67,6 +67,10 @@ Sourceduty purchased a Dell Precision T5810 Workstation for $563.90 CAD, which o
 | Portability                         | High (lightweight laptop)                                     | Low (stationary tower workstation)                     | Low (stationary tower workstation)                             | Low (stationary tower workstation)                          |
 | Estimated Cost (CAD)                | ~$650.00 CAD                                                    | ~$563.90 CAD                                                 | ~$1,078.90 CAD (GPU + CPU upgrade cost)                         | ~$4,951.71 – $14,026.42 CAD        |
 
+<br>
+
+![DELL Workstations in 2025](https://github.com/user-attachments/assets/6783becc-a3d8-4e72-8f05-541d53eb580f)
+
 #
 
 ![Liquid Nitrogen](https://github.com/user-attachments/assets/25e5ab3d-b395-46f9-856a-106dbb0ea832)
