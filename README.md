@@ -71,6 +71,7 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 
 <br>
 
+![T5810](https://github.com/user-attachments/assets/32aefe01-7030-4d10-a59d-424c9a88f4aa)
 ![DELL Workstations in 2025](https://github.com/user-attachments/assets/6783becc-a3d8-4e72-8f05-541d53eb580f)
 
 #
