@@ -1,4 +1,4 @@
-![IoT](https://github.com/user-attachments/assets/313444eb-2391-4464-b866-4d680c0e760f)
+![Concept Deep Future Hologram Laptop](https://github.com/user-attachments/assets/15743079-fb5f-4882-86a5-3be8e154bf1e)
 ![Processing Unit](https://github.com/user-attachments/assets/0f02d54e-b4a5-4e52-9a5b-c63a8c16bfa3)
 
 Sourceduty’s product reviews—captured in a series of personal testimonials and technical impressions from real users—demonstrate a practical, grounded perspective on modern laptop performance across various models. The reviews reveal how users integrate these machines into demanding creative and technical workflows. The Acer Aspire 5 Slim stands out as a favorite for its balanced upgrade path and reliable performance, supporting up to 20GB of RAM and additional SSD storage. Users note its strong hinge design and sleek frame, optimized for portability and airflow. Despite lacking gaming-tier graphics, its Intel Iris Xe GPU handles video editing and light gaming well—sufficient for a multitasking professional. Similarly, the ASUS Vivobook 15 is praised for its flexibility and efficient design, though it leans more toward casual use with an AMD Ryzen 5 and Radeon graphics combination that favors streamed gaming over intensive local rendering. Both reviews highlight the value these machines offer for their price, especially for programming, media production, and light 3D modeling.
@@ -7,7 +7,7 @@ On the higher-performance end, the Dell Gaming Laptop G15 is positioned as an af
 
 #
 
-![Dyson Bladeless PC](https://github.com/user-attachments/assets/bfd179a1-66ff-4c66-92bd-373d61a06f7a)
+![Computer Case](https://github.com/user-attachments/assets/b571730f-2726-4e05-84f6-ee4be025d1da)
 
 [PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design) was made to help users conceptualize, engineer, and refine custom PC case designs from the ground up. It guides users through a step-by-step process by asking targeted multiple-choice questions to determine the case’s intended purpose—such as gaming, workstation, or silent build—and then works through technical specifications like motherboard compatibility, GPU clearance, and cooling requirements. It provides expert advice on selecting materials (e.g., aluminum, steel, tempered glass), optimizing internal layout for airflow and cable management, and designing ergonomic, aesthetic front panels with customizable features like RGB lighting or modular mounts. The GPT also helps ensure easy access for upgrades and repairs, suggests appropriate fan/radiator placements for thermal efficiency, and gives guidance on CAD modeling and manufacturing methods like CNC machining or 3D printing. Ultimately, it supports the user in creating a durable, functional, and visually appealing PC case that meets both personal and performance standards.
 
@@ -76,7 +76,7 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 
 #
 
-![Liquid Nitrogen](https://github.com/user-attachments/assets/25e5ab3d-b395-46f9-856a-106dbb0ea832)
+![IoT](https://github.com/user-attachments/assets/313444eb-2391-4464-b866-4d680c0e760f)
 
 [Throwable](https://chatgpt.com/g/g-6781197c95948191be5e0114572fbb05-throwable) is specialized in the design and engineering of throwable tools and devices, whether for recreational, tactical, or professional use. It guides users through the entire product development lifecycle, starting with a clear definition of the device’s purpose and intended environment, followed by a structured, research-driven approach to ergonomics, aerodynamics, material science, and mechanical design. By employing a step-by-step, multiple-choice questioning method, it helps users make critical decisions about aspects such as weight distribution, grip, and in-flight stability. Throwable also supports ideation with concept sketches or CAD modeling, helps identify optimal materials like lightweight metals or composites, and assists in integrating advanced features like sensors or modularity. It emphasizes rigorous prototyping and testing under diverse conditions to ensure safety, performance, and durability, refining the design based on empirical feedback. Beyond design, Throwable addresses manufacturing efficiency, cost optimization, and regulatory compliance, culminating in the preparation of user documentation and packaging that clearly communicates safety protocols, proper usage, and the tool’s unique features.
 
