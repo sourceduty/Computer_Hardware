@@ -88,7 +88,7 @@ Upgrading the Dell Precision T5810 from 32 GB to 128 GB of ECC DDR4 RAM sign
 
 #
 
-![QWERTY](https://github.com/user-attachments/assets/3ac7a40b-af1a-4102-a077-dc5836ce5f68)
+![Satechi Keyboard](https://github.com/user-attachments/assets/52e998ec-d5e9-4d25-91ea-07e6a18f039e)
 
 [QWERTY Keyboard](https://chatgpt.com/g/g-68631807eddc81918761359757403679-qwerty-keyboard) is a custom GPT made to assist users with tasks related to keyboard driver development, particularly focusing on modifying or enhancing QWERTY keyboard functionality. It helps with understanding and implementing modifications to the software that bridges the physical keyboard and the operating system. This can involve tasks like creating custom layouts, enabling macros, optimizing for specific use cases (like gaming or productivity), or even controlling advanced features such as RGB lighting or multimedia hotkeys. The GPT guides users through coding processes, troubleshooting, and ensuring compatibility between hardware and software, helping to refine and improve the overall user experience with keyboard drivers.
 
